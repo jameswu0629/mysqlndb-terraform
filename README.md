@@ -17,4 +17,4 @@ Terraform v0.12.0
 ### Installation
 > Create your own credentials.json
 
-![Alt text](https://photos.app.goo.gl/dbiGXEVwu5ubKjiC9 "Create a service account: terraform-user")
+![Alt text](https://drive.google.com/uc?export=view&id=1EFd6V7BGlHKPOSsP0Xf-Kcr5Ib3aOfwX "Create a service account: terraform-user")
